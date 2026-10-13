@@ -1,0 +1,4 @@
+{
+  "redirects": [{ "source": "/framework", "destination": "/frameworks/ai-readiness-framework", "permanent": true }],
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
